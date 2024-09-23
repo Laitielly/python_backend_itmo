@@ -1,0 +1,4 @@
+uvicorn==0.30.6
+requests==2.32.3
+pytest==8.3.3
+json==2.0.9
