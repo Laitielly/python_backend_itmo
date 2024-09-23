@@ -23,6 +23,7 @@ Implement the "Mathematical API" from the example directly through the ASGI-comp
  
 ### My resources 
 - Mac on m1, 2020
+- Monterey 12.6.7
 - Python 3.10.11
   
 ### How to run
